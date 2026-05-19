@@ -1,2 +1,4 @@
 # hide-and-seek
-imitate Jet Lag: The Game
+A web that we can play hide and seek like Jet Lag: The Game.
+
+明天再做

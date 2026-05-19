@@ -1,0 +1,13 @@
+/* 重置預設邊距 */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+/* 地圖滿版設定 */
+#map {
+    height: 100vh; /* 視窗高度 */
+    width: 100vw;  /* 視窗寬度 */
+}

@@ -1,0 +1,1531 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.579501,
+          24.998205
+        ]
+      },
+      "properties": {
+        "id": "'BR01'",
+        "name": "動物園,Taipei Zoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.573127,
+          24.99824
+        ]
+      },
+      "properties": {
+        "id": "'BR02'",
+        "name": "木柵,Muzha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568088,
+          24.99857
+        ]
+      },
+      "properties": {
+        "id": "'BR03'",
+        "name": "萬芳社區,Wanfang Community"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558092,
+          24.99932
+        ]
+      },
+      "properties": {
+        "id": "'BR04'",
+        "name": "萬芳醫院,Wanfang Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5570455,
+          25.005455
+        ]
+      },
+      "properties": {
+        "id": "'BR05'",
+        "name": "辛亥,Xinhai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5588335,
+          25.018495
+        ]
+      },
+      "properties": {
+        "id": "'BR06'",
+        "name": "麟光,Linguang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55302,
+          25.02381
+        ]
+      },
+      "properties": {
+        "id": "'BR07'",
+        "name": "六張犁,Liuzhangli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5434615,
+          25.02612
+        ]
+      },
+      "properties": {
+        "id": "'BR08'",
+        "name": "科技大樓,Technology Building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54237,
+          25.033311
+        ]
+      },
+      "properties": {
+        "id": "'BR09,R05'",
+        "name": "大安,Daan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545026,
+          25.041749
+        ]
+      },
+      "properties": {
+        "id": "'BR10,BL15'",
+        "name": "忠孝復興,Zhongxiao Fuxing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544215,
+          25.06085
+        ]
+      },
+      "properties": {
+        "id": "'BR12'",
+        "name": "中山國中,Zhongshan Junior High School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55201,
+          25.0629075
+        ]
+      },
+      "properties": {
+        "id": "'BR13'",
+        "name": "松山機場,Songshan Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54679,
+          25.07943
+        ]
+      },
+      "properties": {
+        "id": "'BR14'",
+        "name": "大直,Dazhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5555825,
+          25.08483
+        ]
+      },
+      "properties": {
+        "id": "'BR15'",
+        "name": "劍南路,Jiannan Rd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567227,
+          25.08216
+        ]
+      },
+      "properties": {
+        "id": "'BR16'",
+        "name": "西湖,Xihu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.57516,
+          25.08007
+        ]
+      },
+      "properties": {
+        "id": "'BR17'",
+        "name": "港墘,Gangqian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5849995,
+          25.078455
+        ]
+      },
+      "properties": {
+        "id": "'BR18'",
+        "name": "文德,Wende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.594363,
+          25.083675
+        ]
+      },
+      "properties": {
+        "id": "'BR19'",
+        "name": "內湖,Neihu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.602214,
+          25.083805
+        ]
+      },
+      "properties": {
+        "id": "'BR20'",
+        "name": "大湖公園,Dahu Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6071455,
+          25.07271
+        ]
+      },
+      "properties": {
+        "id": "'BR21'",
+        "name": "葫洲,Huzhou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.611535,
+          25.067455
+        ]
+      },
+      "properties": {
+        "id": "'BR22'",
+        "name": "東湖,Donghu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.615,
+          25.05992
+        ]
+      },
+      "properties": {
+        "id": "'BR23'",
+        "name": "南港軟體園區,Nangang Software Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.616861,
+          25.054919
+        ]
+      },
+      "properties": {
+        "id": "'BR24'",
+        "name": "南港展覽館,Taipei Nangang Exhibition Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.616861,
+          25.054919
+        ]
+      },
+      "properties": {
+        "id": "'BL23'",
+        "name": "南港展覽館,Taipei Nangang Exhibition Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.570116,
+          25.032395
+        ]
+      },
+      "properties": {
+        "id": "'R02'",
+        "name": "象山,Xiangshan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.563667,
+          25.032865
+        ]
+      },
+      "properties": {
+        "id": "'R03'",
+        "name": "台北101/世貿,Taipei 101/World Trade Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552326,
+          25.033015
+        ]
+      },
+      "properties": {
+        "id": "'R04'",
+        "name": "信義安和,Xinyi Anhe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.536151,
+          25.033225
+        ]
+      },
+      "properties": {
+        "id": "'R06'",
+        "name": "大安森林公園,Daan Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528766,
+          25.033894
+        ]
+      },
+      "properties": {
+        "id": "'R07'",
+        "name": "東門,Dongmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518273,
+          25.032767
+        ]
+      },
+      "properties": {
+        "id": "'R08,G10'",
+        "name": "中正紀念堂,Chiang Kai-Shek Memorial Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51602,
+          25.041399
+        ]
+      },
+      "properties": {
+        "id": "'R09'",
+        "name": "台大醫院,NTU Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517415,
+          25.04631
+        ]
+      },
+      "properties": {
+        "id": "'R10,BL12'",
+        "name": "台北車站,Taipei Main Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520364,
+          25.052621
+        ]
+      },
+      "properties": {
+        "id": "'R11,G14'",
+        "name": "中山,Zhongshan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520685,
+          25.057575
+        ]
+      },
+      "properties": {
+        "id": "'R12'",
+        "name": "雙連,Shuanglian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519585,
+          25.06235
+        ]
+      },
+      "properties": {
+        "id": "'R13,O11'",
+        "name": "民權西路,Minzuan W. Rd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520074,
+          25.0714085
+        ]
+      },
+      "properties": {
+        "id": "'R14'",
+        "name": "圓山,Yuanshan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5249545,
+          25.0842015
+        ]
+      },
+      "properties": {
+        "id": "'R15'",
+        "name": "劍潭,Jiantan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52623,
+          25.0934925
+        ]
+      },
+      "properties": {
+        "id": "'R16'",
+        "name": "士林,Shilin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522546,
+          25.102718
+        ]
+      },
+      "properties": {
+        "id": "'R17'",
+        "name": "芝山,Zhishan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518785,
+          25.109815
+        ]
+      },
+      "properties": {
+        "id": "'R18'",
+        "name": "明德,Mingde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515572,
+          25.114455
+        ]
+      },
+      "properties": {
+        "id": "'R19'",
+        "name": "石牌,Shipai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.506234,
+          25.1208515
+        ]
+      },
+      "properties": {
+        "id": "'R20'",
+        "name": "唭哩岸,Qilian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50114,
+          25.1254705
+        ]
+      },
+      "properties": {
+        "id": "'R21'",
+        "name": "奇岩,Qiyan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4986475,
+          25.1318185
+        ]
+      },
+      "properties": {
+        "id": "'R22'",
+        "name": "北投,Beitou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5025955,
+          25.1369315
+        ]
+      },
+      "properties": {
+        "id": "'R22A'",
+        "name": "新北投,Xinbeitou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.485456,
+          25.137497
+        ]
+      },
+      "properties": {
+        "id": "'R23'",
+        "name": "復興崗,Fuxinggang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4732975,
+          25.1309225
+        ]
+      },
+      "properties": {
+        "id": "'R24'",
+        "name": "忠義,Zhongyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.467,
+          25.12551
+        ]
+      },
+      "properties": {
+        "id": "'R25'",
+        "name": "關渡,Guandu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45955,
+          25.1369
+        ]
+      },
+      "properties": {
+        "id": "'R26'",
+        "name": "竹圍,Zhuwei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4588,
+          25.15399
+        ]
+      },
+      "properties": {
+        "id": "'R27'",
+        "name": "紅樹林,Hongshulin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.445805,
+          25.167745
+        ]
+      },
+      "properties": {
+        "id": "'R28'",
+        "name": "淡水,Tamsui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53746,
+          24.95761
+        ]
+      },
+      "properties": {
+        "id": "'G01'",
+        "name": "新店,Xindian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5413,
+          24.96744
+        ]
+      },
+      "properties": {
+        "id": "'G02'",
+        "name": "新店區公所,Xindian District Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542985,
+          24.97545
+        ]
+      },
+      "properties": {
+        "id": "'G03'",
+        "name": "七張,Qizhang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53058,
+          24.97188
+        ]
+      },
+      "properties": {
+        "id": "'G01A'",
+        "name": "小碧潭,Xiaobitan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54134,
+          24.9827205
+        ]
+      },
+      "properties": {
+        "id": "'G04'",
+        "name": "大坪林,Dapinglin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5406975,
+          24.992824
+        ]
+      },
+      "properties": {
+        "id": "'G05'",
+        "name": "景美,Jingmei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.539008,
+          25.001978
+        ]
+      },
+      "properties": {
+        "id": "'G06'",
+        "name": "萬隆,Wanlong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534358,
+          25.014781
+        ]
+      },
+      "properties": {
+        "id": "'G07'",
+        "name": "公館,Gongguan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5281435,
+          25.020733
+        ]
+      },
+      "properties": {
+        "id": "'G08'",
+        "name": "台電大樓,Taipower Building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522868,
+          25.026373
+        ]
+      },
+      "properties": {
+        "id": "'G09,O05'",
+        "name": "古亭,Guting"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51088,
+          25.035585
+        ]
+      },
+      "properties": {
+        "id": "'G11'",
+        "name": "小南門,Xiaonanmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510184,
+          25.049554
+        ]
+      },
+      "properties": {
+        "id": "'G13'",
+        "name": "北門,Beimen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53285,
+          25.052693
+        ]
+      },
+      "properties": {
+        "id": "'G15,O08'",
+        "name": "松江南京,Songliang Nanjing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544303,
+          25.052044
+        ]
+      },
+      "properties": {
+        "id": "'G16,BR11'",
+        "name": "南京復興,Nanjing Fuxing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552549,
+          25.05152
+        ]
+      },
+      "properties": {
+        "id": "'G17'",
+        "name": "台北小巨蛋,Taipei Arena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56471,
+          25.051588
+        ]
+      },
+      "properties": {
+        "id": "'G18'",
+        "name": "南京三民,Nanjing Sanmin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.577706,
+          25.050118
+        ]
+      },
+      "properties": {
+        "id": "'G19'",
+        "name": "松山,Songshan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509237,
+          24.990065
+        ]
+      },
+      "properties": {
+        "id": "'O01'",
+        "name": "南勢角,Nanshijiao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.505114,
+          24.99392
+        ]
+      },
+      "properties": {
+        "id": "'O02'",
+        "name": "景安,Jingan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.511225,
+          25.002895
+        ]
+      },
+      "properties": {
+        "id": "'O03'",
+        "name": "永安市場,Yongan Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515462,
+          25.013858
+        ]
+      },
+      "properties": {
+        "id": "'O04'",
+        "name": "頂溪,Dingxi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53315,
+          25.05924
+        ]
+      },
+      "properties": {
+        "id": "'O09'",
+        "name": "行天宮,Xingtian Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526609,
+          25.062665
+        ]
+      },
+      "properties": {
+        "id": "'O10'",
+        "name": "中山國小,Zhongshan Elementary School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5130035,
+          25.06322
+        ]
+      },
+      "properties": {
+        "id": "'O12'",
+        "name": "大橋頭,Daqiaotou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500575,
+          25.063075
+        ]
+      },
+      "properties": {
+        "id": "'O13'",
+        "name": "台北橋,Taipei Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.491421,
+          25.059451
+        ]
+      },
+      "properties": {
+        "id": "'O14'",
+        "name": "菜寮,Cailiao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48422,
+          25.05571
+        ]
+      },
+      "properties": {
+        "id": "'O15'",
+        "name": "三重,Sanchong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47165,
+          25.04632
+        ]
+      },
+      "properties": {
+        "id": "'O16'",
+        "name": "先嗇宮,Xianse Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.461655,
+          25.039735
+        ]
+      },
+      "properties": {
+        "id": "'O17'",
+        "name": "頭前庄,Touqianzhuang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45218,
+          25.03608
+        ]
+      },
+      "properties": {
+        "id": "'O18'",
+        "name": "新莊,Xinzhuang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.435735,
+          25.03279
+        ]
+      },
+      "properties": {
+        "id": "'O19'",
+        "name": "輔大,Fu Jen University"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.422422,
+          25.029073
+        ]
+      },
+      "properties": {
+        "id": "'O20'",
+        "name": "丹鳳,Danfeng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.411757,
+          25.022107
+        ]
+      },
+      "properties": {
+        "id": "'O21'",
+        "name": "迴龍,Huilong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49701,
+          25.070275
+        ]
+      },
+      "properties": {
+        "id": "'O50'",
+        "name": "三重國小,Sanchong Elementary School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.486795,
+          25.07646
+        ]
+      },
+      "properties": {
+        "id": "'O51'",
+        "name": "三和國中,Sanhe Junior High School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.479945,
+          25.080485
+        ]
+      },
+      "properties": {
+        "id": "'O52'",
+        "name": "徐匯中學,St.lgnatius High School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473365,
+          25.085425
+        ]
+      },
+      "properties": {
+        "id": "'O53'",
+        "name": "三民高中,Sanmin Senior High School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46471,
+          25.09152
+        ]
+      },
+      "properties": {
+        "id": "'O54'",
+        "name": "蘆洲,Luzhou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4205,
+          24.96012
+        ]
+      },
+      "properties": {
+        "id": "'BL01'",
+        "name": "頂埔,Dingpu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43613,
+          24.96682
+        ]
+      },
+      "properties": {
+        "id": "'BL02'",
+        "name": "永寧,Yongning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44432,
+          24.97313
+        ]
+      },
+      "properties": {
+        "id": "'BL03'",
+        "name": "土城,Tucheng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44873,
+          24.985305
+        ]
+      },
+      "properties": {
+        "id": "'BL04'",
+        "name": "海山,Haishan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.452465,
+          24.99828
+        ]
+      },
+      "properties": {
+        "id": "'BL05'",
+        "name": "亞東醫院,Far Eastern Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.459276,
+          25.008465
+        ]
+      },
+      "properties": {
+        "id": "'BL06'",
+        "name": "府中,Fuzhong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.462305,
+          25.013825
+        ]
+      },
+      "properties": {
+        "id": "'BL07'",
+        "name": "板橋,Banqiao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.468055,
+          25.02327
+        ]
+      },
+      "properties": {
+        "id": "'BL08'",
+        "name": "新埔,Xinpu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47257,
+          25.030265
+        ]
+      },
+      "properties": {
+        "id": "'BL09'",
+        "name": "江子翠,Jiangzicui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500325,
+          25.03528
+        ]
+      },
+      "properties": {
+        "id": "'BL10'",
+        "name": "龍山寺,Longshan Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508175,
+          25.042025
+        ]
+      },
+      "properties": {
+        "id": "'BL11,G12'",
+        "name": "西門,Ximen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.523885,
+          25.04468
+        ]
+      },
+      "properties": {
+        "id": "'BL13'",
+        "name": "善導寺,Shandao Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53321,
+          25.042498
+        ]
+      },
+      "properties": {
+        "id": "'BL14,O07'",
+        "name": "忠孝新生,Zhongxiao Xinsheng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55045,
+          25.041505
+        ]
+      },
+      "properties": {
+        "id": "'BL16'",
+        "name": "忠孝敦化,Xhongxiao Dunhua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557815,
+          25.04137
+        ]
+      },
+      "properties": {
+        "id": "'BL17'",
+        "name": "國父紀念館,Sun Yat-Sen Memorial Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.565685,
+          25.041135
+        ]
+      },
+      "properties": {
+        "id": "'BL18'",
+        "name": "市政府,Taipei City Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5762,
+          25.040855
+        ]
+      },
+      "properties": {
+        "id": "'BL19'",
+        "name": "永春,Yongchun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58227,
+          25.044715
+        ]
+      },
+      "properties": {
+        "id": "'BL20'",
+        "name": "後山埤,Houshanpi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5932285,
+          25.0504585
+        ]
+      },
+      "properties": {
+        "id": "'BL21'",
+        "name": "昆陽,Kunyang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60697,
+          25.052035
+        ]
+      },
+      "properties": {
+        "id": "'BL22'",
+        "name": "南港,Nangang"
+      }
+    }
+  ]
+}

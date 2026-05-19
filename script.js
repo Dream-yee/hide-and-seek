@@ -60,6 +60,15 @@ fetch('data/metro/mrt_stations.json')
                 }
             }
         }).addTo(map);
+
+        L.geoJSON(turf.buffer(data, 500, { units: 'meters' }), {
+            style: {
+                fillColor: "#8080803b",
+                fillOpacity: 0.6,
+                color: "transparent", // 邊框透明
+                weight: 0
+            }
+        }).addTo(map);
     });
 
 // 1. 定義一個涵蓋全球的矩形 (這是挖洞的「紙」)
@@ -72,25 +81,33 @@ let i = 0;
 fetch('data/bus/all_bus_routes.json')
     .then(res => res.json())
     .then(data => {
+// 1. 建立 500 公尺緩衝區
+        const buffered = turf.buffer(data, 500, { units: 'meters' });
 
-        // // 2. 產生 500 公尺的緩衝區
-        // // 單位 "meters", 注意：Turf 預設輸入是經緯度
-        // const buffered = turf.buffer(data, 500, { units: 'meters' });
+        // 2. 建立「整張地圖」的覆蓋層 (灰色遮罩)
+        const maskLayer = L.geoJSON(buffered, {
+            style: {
+                fillColor: "#80808039", // 灰色底色
+                fillOpacity: 0.5,
+                color: "transparent", // 邊框透明
+                weight: 0
+            },
+            // 利用 inversion 技巧，讓被選中的地方變透明
+            // 其實就是給這些區域加上一個「反轉樣式」
+            renderer: L.canvas() // 使用 Canvas 渲染會比較流暢
+        }).addTo(map);
 
-        // // 3. 從世界矩形中扣除這些緩衝區
-        // const mask = turf.difference(turf.featureCollection([
-        //     turf.feature(worldBounds),
-        //     buffered
-        // ]));
-        // // 4. 將遮罩渲染為半透明灰色
-        // L.geoJSON(buffered, {
-        //     style: {
-        //         fillColor: "#8080803b",
-        //         fillOpacity: 0.6,
-        //         color: "transparent", // 邊框透明
-        //         weight: 0
-        //     }
-        // }).addTo(map);
+        // 3. 處理顏色加深：將 busData 合併成單一 Feature
+        // 這樣就不會因為重疊導致顏色變深
+        const mergedLines = turf.combine(data); 
+
+        L.geoJSON(mergedLines, {
+            style: {
+                color: "#ff0000",
+                weight: 2,
+                opacity: 0.8 // 統一透明度，不會再有顏色疊加問題
+            }
+        }).addTo(map);
 
         L.geoJSON(data, {
                     style: ()=>{i++; return {color: `${BUS_COLORS[i]}`, weight: 2}},

@@ -87,10 +87,10 @@ fetch('data/bus/all_bus_routes.json')
         // 2. 建立「整張地圖」的覆蓋層 (灰色遮罩)
         const maskLayer = L.geoJSON(buffered, {
             style: {
-                fillColor: "#80808039", // 灰色底色
+                fillColor: "#ff699b13", // 灰色底色
                 fillOpacity: 0.5,
-                color: "transparent", // 邊框透明
-                weight: 0
+                color: "#ff699b30", // 邊框透明
+                weight: 1
             },
             // 利用 inversion 技巧，讓被選中的地方變透明
             // 其實就是給這些區域加上一個「反轉樣式」

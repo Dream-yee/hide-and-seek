@@ -35,4 +35,4 @@ def merge_geojson_files(input_folder, output_file):
     print(f"總共包含 {len(merged_features)} 個 features")
 
 # 執行合併
-merge_geojson_files('data/bus', 'all_bus_routes.json')
+merge_geojson_files('data/bus', 'data/bus/all_bus_routes.json')

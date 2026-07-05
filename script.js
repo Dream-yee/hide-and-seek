@@ -47,6 +47,21 @@ fetch('data/metro/KHGeo.json')
                 }
             }
         }).addTo(map);
+
+        const buffered = turf.buffer(data, 500, { units: 'meters' });
+
+        // 2. 建立「整張地圖」的覆蓋層 (灰色遮罩)
+        const maskLayer = L.geoJSON(buffered, {
+            style: {
+                fillColor: "#ff699b", // 灰色底色
+                fillOpacity: 0.05,
+                color: "#ff699b30", // 邊框透明
+                weight: 0
+            },
+            // 利用 inversion 技巧，讓被選中的地方變透明
+            // 其實就是給這些區域加上一個「反轉樣式」
+            renderer: L.canvas() // 使用 Canvas 渲染會比較流暢
+        }).addTo(map);
     })
 
 fetch('data/metro/KLRTGeo.json')
@@ -56,6 +71,21 @@ fetch('data/metro/KLRTGeo.json')
             style: function(feature) {
                 return {color: "#6be05e", weight: 7};
             }
+        }).addTo(map);
+
+        const buffered = turf.buffer(data, 500, { units: 'meters' });
+
+        // 2. 建立「整張地圖」的覆蓋層 (灰色遮罩)
+        const maskLayer = L.geoJSON(buffered, {
+            style: {
+                fillColor: "#ff699b", // 灰色底色
+                fillOpacity: 0.05,
+                color: "#ff699b30", // 邊框透明
+                weight: 0
+            },
+            // 利用 inversion 技巧，讓被選中的地方變透明
+            // 其實就是給這些區域加上一個「反轉樣式」
+            renderer: L.canvas() // 使用 Canvas 渲染會比較流暢
         }).addTo(map);
     })
 
@@ -111,8 +141,8 @@ fetch('data/bus/all_bus_routes.json')
         // 2. 建立「整張地圖」的覆蓋層 (灰色遮罩)
         const maskLayer = L.geoJSON(buffered, {
             style: {
-                fillColor: "#ff699b13", // 灰色底色
-                fillOpacity: 0,
+                fillColor: "#ff699b", // 灰色底色
+                fillOpacity: 0.05,
                 color: "#ff699b30", // 邊框透明
                 weight: 0
             },
